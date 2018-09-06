@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1536271506 source:c:\users\isp\desktop\tutogit\progit\main.c
+	<stdio.h>
+	<stdlib.h>
+	"index.h"
+
+1536271744 c:\users\isp\desktop\tutogit\progit\index.h
+
+1536271772 source:c:\users\isp\desktop\tutogit\progit\index.c
+	<stdio.h>
+	<stdlib.h>
+
