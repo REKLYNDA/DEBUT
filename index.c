@@ -3,5 +3,5 @@
 
 void addition(void)
 {
-    printf("1+1 = %d",2);
+    printf("1+1 est egal %d",2);
 }
